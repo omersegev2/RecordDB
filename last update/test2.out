@@ -1,0 +1,102 @@
+Test 2
+------
+Add Records
+-----------
+Add Tracks to 'The Joshua Tree'
+-------------------------------
+Add more Records
+----------------
+Add Tracks to 'The Dark Side of the Moon'
+-----------------------------------------
+Add Tracks to 'The Joshua Tree'
+-------------------------------
+'The Joshua Tree' Record
+------------------------
+Rock RECORD    : The Joshua Tree from year 1987 contains 2 tracks
+	TRACK: <With or Without You> Duration: [0:4:56]
+	TRACK: <Bullet the Blue Sky> Duration: [0:5:8]
+Rock RECORD    : Back in Black from year 1980 contains 1 tracks
+	TRACK: <Speak to Me> Duration: [0:1:30]
+Rock RECORD    : The Dark Side of the Moon from year 1973 contains 5 tracks
+	TRACK: <Speak to Me> Duration: [0:1:30]
+	TRACK: <Breathe> Duration: [0:2:43]
+	TRACK: <On the Run> Duration: [0:3:36]
+	TRACK: <Time> Duration: [0:7:1]
+	TRACK: <The Great Gig in the Sky> Duration: [0:4:36]
+Remove Tracks
+-------------
+Rock RECORD    : The Joshua Tree from year 1987 contains 0 tracks
+Add generig Records
+-------------------
+Add Generic Tracks
+------------------
+Remove Tracks
+-------------
+Remove Records
+--------------
+Report BLUES Records
+--------------------
+Report Containing Records
+-------------------------
+Track1
+Rock RECORD    : Record1 from year 1973 contains 3 tracks
+	TRACK: <Track1> Duration: [0:1:30]
+	TRACK: <Track2> Duration: [0:2:43]
+	TRACK: <Track3> Duration: [0:3:36]
+Rock RECORD    : Record6 from year 1932 contains 3 tracks
+	TRACK: <Track1> Duration: [0:1:30]
+	TRACK: <Track2> Duration: [0:2:43]
+	TRACK: <Track3> Duration: [0:3:36]
+Track2
+Rock RECORD    : Record1 from year 1973 contains 3 tracks
+	TRACK: <Track1> Duration: [0:1:30]
+	TRACK: <Track2> Duration: [0:2:43]
+	TRACK: <Track3> Duration: [0:3:36]
+Rock RECORD    : Record6 from year 1932 contains 3 tracks
+	TRACK: <Track1> Duration: [0:1:30]
+	TRACK: <Track2> Duration: [0:2:43]
+	TRACK: <Track3> Duration: [0:3:36]
+Track3
+Rock RECORD    : Record1 from year 1973 contains 3 tracks
+	TRACK: <Track1> Duration: [0:1:30]
+	TRACK: <Track2> Duration: [0:2:43]
+	TRACK: <Track3> Duration: [0:3:36]
+Pop RECORD     : Record5 from year 1983 contains 2 tracks
+	TRACK: <Track3> Duration: [0:3:36]
+	TRACK: <Track4> Duration: [0:7:1]
+Rock RECORD    : Record6 from year 1932 contains 3 tracks
+	TRACK: <Track1> Duration: [0:1:30]
+	TRACK: <Track2> Duration: [0:2:43]
+	TRACK: <Track3> Duration: [0:3:36]
+Track4
+Pop RECORD     : Record5 from year 1983 contains 2 tracks
+	TRACK: <Track3> Duration: [0:3:36]
+	TRACK: <Track4> Duration: [0:7:1]
+Track5
+Track6
+Print all Records
+-----------------
+Rock RECORD    : Back in Black from year 1980 contains 1 tracks
+	TRACK: <Speak to Me> Duration: [0:1:30]
+Rock RECORD    : Exile on Main St. from year 1972 contains 0 tracks
+Rock RECORD    : Record1 from year 1973 contains 3 tracks
+	TRACK: <Track1> Duration: [0:1:30]
+	TRACK: <Track2> Duration: [0:2:43]
+	TRACK: <Track3> Duration: [0:3:36]
+Jazz RECORD    : Record3 from year 2004 contains 0 tracks
+Pop RECORD     : Record5 from year 1983 contains 2 tracks
+	TRACK: <Track3> Duration: [0:3:36]
+	TRACK: <Track4> Duration: [0:7:1]
+Rock RECORD    : Record6 from year 1932 contains 3 tracks
+	TRACK: <Track1> Duration: [0:1:30]
+	TRACK: <Track2> Duration: [0:2:43]
+	TRACK: <Track3> Duration: [0:3:36]
+Hip Hop RECORD : The Chronic from year 1992 contains 0 tracks
+Rock RECORD    : The Dark Side of the Moon from year 1973 contains 5 tracks
+	TRACK: <Speak to Me> Duration: [0:1:30]
+	TRACK: <Breathe> Duration: [0:2:43]
+	TRACK: <On the Run> Duration: [0:3:36]
+	TRACK: <Time> Duration: [0:7:1]
+	TRACK: <The Great Gig in the Sky> Duration: [0:4:36]
+Rock RECORD    : The Joshua Tree from year 1987 contains 0 tracks
+Pop RECORD     : Thriller from year 1982 contains 0 tracks

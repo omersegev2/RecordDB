@@ -1,0 +1,100 @@
+Test 1
+------
+Add records
+-----------
+Add tracks
+----------
+Report ROCK records
+-------------------
+Rock RECORD    : Appetite for Destruction from year 1987 contains 7 tracks
+	TRACK: <Welcome to the Jungle> Duration: [0:4:35]
+	TRACK: <It's So Easy> Duration: [0:3:37]
+	TRACK: <Nightrain> Duration: [0:4:25]
+	TRACK: <Out ta Get Me> Duration: [0:4:14]
+	TRACK: <Mr. Brownstone> Duration: [0:3:51]
+	TRACK: <Paradise City> Duration: [0:6:46]
+	TRACK: <My Michelle> Duration: [0:3:23]
+Rock RECORD    : Back in Black from year 1980 contains 10 tracks
+	TRACK: <Hells Bells> Duration: [0:5:12]
+	TRACK: <Shoot to Thrill> Duration: [0:5:11]
+	TRACK: <What Do You Do for Money Honey> Duration: [0:3:30]
+	TRACK: <Given the Dog a Bone> Duration: [0:3:30]
+	TRACK: <Let Me Put My Love into You> Duration: [0:3:25]
+	TRACK: <Back in Black> Duration: [0:4:15]
+	TRACK: <You Shook Me All Night Long> Duration: [0:3:30]
+	TRACK: <Have a Drink on Me> Duration: [0:3:50]
+	TRACK: <Shake a Leg> Duration: [0:4:5]
+	TRACK: <Rock and Roll Ain't Noise Pollution> Duration: [0:4:12]
+Rock RECORD    : Born in the U.S.A. from year 1984 contains 0 tracks
+Rock RECORD    : Exile on Main St. from year 1972 contains 9 tracks
+	TRACK: <Rocks Off> Duration: [0:4:19]
+	TRACK: <Rip This Joint> Duration: [0:2:16]
+	TRACK: <Tumbling Dice> Duration: [0:3:51]
+	TRACK: <Sweet Virginia> Duration: [0:4:27]
+	TRACK: <Torn and Frayed> Duration: [0:3:52]
+	TRACK: <Sweet Black Angel> Duration: [0:3:17]
+	TRACK: <Loving Cup> Duration: [0:4:16]
+	TRACK: <Happy> Duration: [0:3:10]
+	TRACK: <Turd on the Run> Duration: [0:2:0]
+Rock RECORD    : Hotel California from year 1976 contains 3 tracks
+	TRACK: <Hotel California> Duration: [0:6:30]
+	TRACK: <New Kid in Town> Duration: [0:5:25]
+	TRACK: <Life in the Fast Lane> Duration: [0:4:11]
+Rock RECORD    : Led Zeppelin II from year 1969 contains 0 tracks
+Rock RECORD    : Led Zeppelin IV from year 1971 contains 5 tracks
+	TRACK: <Black Dog> Duration: [0:4:56]
+	TRACK: <Rock and Roll> Duration: [0:3:40]
+	TRACK: <The Battle of Evermore> Duration: [0:5:50]
+	TRACK: <Stairway to Heaven> Duration: [0:8:2]
+	TRACK: <Misty Mountain Hop> Duration: [0:4:38]
+Rock RECORD    : Nevermind from year 1991 contains 7 tracks
+	TRACK: <Smells Like Teen Spirit> Duration: [0:5:1]
+	TRACK: <In Bloom> Duration: [0:4:14]
+	TRACK: <Come As You Are> Duration: [0:3:39]
+	TRACK: <Breed> Duration: [0:3:4]
+	TRACK: <Lithium> Duration: [0:4:17]
+	TRACK: <Polly> Duration: [0:2:57]
+	TRACK: <Territorial Pissings> Duration: [0:2:23]
+Rock RECORD    : Rumours from year 1977 contains 3 tracks
+	TRACK: <Second Hand News> Duration: [0:2:30]
+	TRACK: <Dreams> Duration: [0:4:12]
+	TRACK: <Never Going Back Again> Duration: [0:2:18]
+Rock RECORD    : The Dark Side of the Moon from year 1973 contains 5 tracks
+	TRACK: <Time> Duration: [0:7:1]
+	TRACK: <Money> Duration: [0:6:22]
+	TRACK: <Us and Them> Duration: [0:7:42]
+	TRACK: <Any Colour You Like> Duration: [0:3:25]
+	TRACK: <Brain Damage> Duration: [0:3:48]
+Rock RECORD    : The Doors from year 1967 contains 0 tracks
+Rock RECORD    : The Greatest Hits (1971-1975) from year 1976 contains 1 tracks
+	TRACK: <Take It Easy> Duration: [0:3:7]
+Rock RECORD    : The Wall from year 1979 contains 1 tracks
+	TRACK: <Another Brick in the Wall (Part 1)> Duration: [0:3:13]
+Report HIP HOP records
+----------------------
+Hip Hop RECORD : The Chronic from year 1992 contains 2 tracks
+	TRACK: <Nuthin' but a 'G' Thang> Duration: [0:3:58]
+	TRACK: <Let Me Ride> Duration: [0:4:23]
+Hip Hop RECORD : The Joshua Tree from year 1987 contains 4 tracks
+	TRACK: <Where the Streets Have No Name> Duration: [0:5:37]
+	TRACK: <I Still Haven't Found What I'm Looking For> Duration: [0:4:54]
+	TRACK: <With or Without You> Duration: [0:4:56]
+	TRACK: <Bullet the Blue Sky> Duration: [0:4:44]
+Hip Hop RECORD : The Miseducation of Lauryn Hill from year 1998 contains 0 tracks
+Remove Tracks
+-------------
+Report HIP HOP records
+----------------------
+Hip Hop RECORD : The Chronic from year 1992 contains 2 tracks
+	TRACK: <Nuthin' but a 'G' Thang> Duration: [0:3:58]
+	TRACK: <Let Me Ride> Duration: [0:4:23]
+Hip Hop RECORD : The Joshua Tree from year 1987 contains 2 tracks
+	TRACK: <Where the Streets Have No Name> Duration: [0:5:37]
+	TRACK: <I Still Haven't Found What I'm Looking For> Duration: [0:4:54]
+Hip Hop RECORD : The Miseducation of Lauryn Hill from year 1998 contains 0 tracks
+Remove Records
+--------------
+Report HIP HOP records
+----------------------
+Hip Hop RECORD : The Miseducation of Lauryn Hill from year 1998 contains 0 tracks
+--------------
